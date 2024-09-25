@@ -1,0 +1,162 @@
+[
+  {
+    "ID": "1",
+    "Q": "Search in a sorted 2D matrix",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "2",
+    "Q": "Grid Unique Paths | Count paths from left-top to the right bottom of a matrix",
+    "link": "https://leetcode.com/problems/unique-paths/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "3",
+    "Q": "Two Sum : Check if a pair with given sum exists in Array",
+    "link": "https://leetcode.com/problems/two-sum/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "4",
+    "Q": "Longest Consecutive Sequence in an Array",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "5",
+    "Q": "Length of the longest subarray with zero Sum",
+    "link": "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "6",
+    "Q": "Length of Longest Substring without any Repeating Character",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "7",
+    "Q": "Count the number of subarrays with given xor K",
+    "link": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "8",
+    "Q": "Merge Overlapping Sub-intervals",
+    "link": "https://leetcode.com/problems/merge-intervals/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "9",
+    "Q": "Merge two Sorted Arrays Without Extra Space",
+    "link": "https://leetcode.com/problems/merge-sorted-array/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+10",
+    "Q": "Program to generate Pascal’s Triangle",
+    "link": "https://leetcode.com/problems/pascals-triangle/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+11",
+    "Q": "Next_permutation : find next lexicographically greater permutation",
+    "link": "https://leetcode.com/problems/next-permutation/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+12",
+    "Q": "Kadane’s Algorithm : Maximum Subarray Sum in an Array",
+    "link": "https://leetcode.com/problems/maximum-subarray/",
+    "done": "not"
+  },
+  {
+    "ID": "+13",
+    "Q": "Sort an array of 0s, 1s and 2s",
+    "link": "https://leetcode.com/problems/sort-colors/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+14",
+    "Q": "Grid Unique Paths",
+    "link": "https://leetcode.com/problems/unique-paths/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+15",
+    "Q": "Reverse Pairs",
+    "link": "https://leetcode.com/problems/reverse-pairs/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+16",
+    "Q": "Pow(x,n) : Find X raised to the power N",
+    "link": "https://leetcode.com/problems/powx-n/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+17",
+    "Q": "4 Sum problem",
+    "link": "https://leetcode.com/problems/4sum/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+18",
+    "Q": "Max consecutive Ones",
+    "link": "https://leetcode.com/problems/max-consecutive-ones/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+19",
+    "Q": "Reverse Words in a String",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+20",
+    "Q": "Longest Palindrome in a string",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+21",
+    "Q": "Longest Common Prefix",
+    "link": "https://leetcode.com/problems/longest-common-prefix/",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+22",
+    "Q": "Minimum characters needed to be inserted in the beginning to make it palindromic",
+    "link": "https://www.codingninjas.com/codestudio/problems/893000?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+    "status": "Incomplete",
+    "done": "not"
+  },
+  {
+    "ID": "+23",
+    "Q": "Check for Anagrams",
+    "link": "https://leetcode.com/problems/valid-anagram/",
+    "status": "Incomplete",
+    "done": "not"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+      "ID": "1",
+      "Q": "Size of the largest BST in a Binary Tree",
+      "link": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "2",
+      "Q": "Find a pair with a given sum in BST",
+      "link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "3",
+      "Q": "Populate Next Right pointers of Tree",
+      "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "4",
+      "Q": "Find LCA of two nodes in BST",
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "5",
+      "Q": "Find the inorder predecessor/successor of a given Key in BST.",
+      "link": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "6",
+      "Q": "Kth largest element in Binary Search Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+      "status": "Incomplete",
+      "done": "not"
+  }
+]

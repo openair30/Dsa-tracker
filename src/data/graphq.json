@@ -1,0 +1,44 @@
+[
+  {
+      "ID": "1",
+      "Q": "Detect Cycle in an Undirected Graph (using BFS)",
+      "link": "https://leetcode.com/problems/course-schedule/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "2",
+      "Q": "Topological Sort (BFS)",
+      "link": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "3",
+      "Q": "Number of Distinct Islands",
+      "link": "https://leetcode.com/problems/number-of-islands/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "4",
+      "Q": "Bipartite Graph",
+      "link": "https://leetcode.com/problems/is-graph-bipartite/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "5",
+      "Q": "Detect a Cycle in Directed Graph | Topological Sort | Kahn’s Algorithm",
+      "link": "https://leetcode.com/problems/course-schedule/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "6",
+      "Q": "Print Shortest Path – Dijkstra’s Algorithm",
+      "link": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+      "status": "Incomplete",
+      "done": "not"
+  }
+]

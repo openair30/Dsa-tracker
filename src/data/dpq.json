@@ -1,0 +1,93 @@
+[
+  {
+      "ID": "1",
+      "Q": "Maximum Product Subarray in an Array",
+      "link": "https://leetcode.com/problems/maximum-product-subarray/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "2",
+      "Q": "Longest Common Subsequence |",
+      "link": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "3",
+      "Q": "0/1 Knapsack",
+      "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "4",
+      "Q": "Edit Distance",
+      "link": "https://leetcode.com/problems/edit-distance/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "5",
+      "Q": "Rod Cutting Problem",
+      "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "6",
+      "Q": "Subset sum equal to target",
+      "link": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "7",
+      "Q": "Coin Change 2",
+      "link": "https://leetcode.com/problems/coin-change/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "8",
+      "Q": "Minimum Path Sum In a Grid",
+      "link": "https://leetcode.com/problems/minimum-path-sum/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "9",
+      "Q": "Longest Increasing Subsequence",
+      "link": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "+10",
+      "Q": "Maximum sum increasing subsequence",
+      "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "+11",
+      "Q": "Matrix Chain Multiplication",
+      "link": "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "+12",
+      "Q": "Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path)",
+      "link": "https://leetcode.com/problems/minimum-path-sum/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "+13",
+      "Q": "Maximum profit in Job scheduling",
+      "link": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+      "status": "Incomplete",
+      "done": "not"
+  }
+]

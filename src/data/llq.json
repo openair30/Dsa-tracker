@@ -1,0 +1,58 @@
+[
+  {
+      "ID": "1",
+      "Q": "Check if given Linked List is Plaindrome",
+      "link": "https://leetcode.com/problems/palindrome-linked-list/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "2",
+      "Q": "Reverse Linked List in groups of Size K",
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "3",
+      "Q": "Detect a Cycle in a Linked List",
+      "link": "https://leetcode.com/problems/linked-list-cycle/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "4",
+      "Q": "Find intersection of Two Linked Lists",
+      "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "5",
+      "Q": "Starting point of loop in a Linked List",
+      "link": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "6",
+      "Q": "Flattening a Linked List",
+      "link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "7",
+      "Q": "Merge two sorted Linked Lists",
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "8",
+      "Q": "Remove N-th node from the end of a Linked List",
+      "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "status": "Incomplete",
+      "done": "not"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+      "ID": "1",
+      "Q": "Level Order Traversal of a Binary Tree",
+      "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "2",
+      "Q": "Maximum depth of a Binary Tree",
+      "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "3",
+      "Q": "Calculate the Diameter of a Binary Tree",
+      "link": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "4",
+      "Q": "Check if the Binary Tree is Balanced Binary Tree",
+      "link": "https://leetcode.com/problems/balanced-binary-tree/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "5",
+      "Q": "Lowest Common Ancestor for two given Nodes",
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "6",
+      "Q": "Check if two trees are identical",
+      "link": "https://leetcode.com/problems/same-tree/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "7",
+      "Q": "Boundary Traversal of a Binary Tree",
+      "link": "https://leetcode.com/problems/boundary-of-binary-tree/#",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "8",
+      "Q": "Zig Zag Traversal Of Binary Tree",
+      "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "status": "Incomplete",
+      "done": "not"
+  }
+]

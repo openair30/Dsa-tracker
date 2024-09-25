@@ -1,0 +1,44 @@
+[
+  {
+      "ID": "1",
+      "Q": "Rat in a Maze",
+      "link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "2",
+      "Q": "M – Coloring Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "3",
+      "Q": "Sudoku Solver",
+      "link": "https://leetcode.com/problems/sudoku-solver/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "4",
+      "Q": "N Queen Problem | Return all Distinct Solutions to the N-Queens Puzzle",
+      "link": "https://leetcode.com/problems/n-queens/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "5",
+      "Q": "Print All Permutations of a String/Array",
+      "link": "https://leetcode.com/problems/permutations/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "6",
+      "Q": "Word Break (print all ways)",
+      "link": "https://bit.ly/3FxgW92",
+      "status": "Incomplete",
+      "done": "not"
+  }
+]

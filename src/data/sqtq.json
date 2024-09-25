@@ -1,0 +1,51 @@
+[
+  {
+      "ID": "1",
+      "Q": "Implement Min Stack : O(2N) and O(N) Space Complexity",
+      "link": "https://leetcode.com/problems/min-stack/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "2",
+      "Q": "Sliding Window Maximum",
+      "link": "https://leetcode.com/problems/sliding-window-maximum/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "3",
+      "Q": "Area of largest rectangle in Histogram",
+      "link": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "4",
+      "Q": "Implement LRU Cache",
+      "link": "https://leetcode.com/problems/lru-cache/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "5",
+      "Q": "Implement Stack using single Queue",
+      "link": "https://leetcode.com/problems/implement-stack-using-queues/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "6",
+      "Q": "Check for Balanced Parentheses",
+      "link": "https://leetcode.com/problems/valid-parentheses/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "7",
+      "Q": "Next Greater Element Using Stack",
+      "link": "https://leetcode.com/problems/next-greater-element-ii/description/",
+      "status": "Incomplete",
+      "done": "not"
+  }
+]
