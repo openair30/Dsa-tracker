@@ -1,0 +1,44 @@
+[
+  {
+      "ID": "1",
+      "Q": "Subset Sum : Sum of all Subsets",
+      "link": "https://practice.geeksforgeeks.org/problems/subset-sums2234/1",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "2",
+      "Q": "Subset – II | Print all the Unique Subsets",
+      "link": "https://leetcode.com/problems/subsets-ii/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "3",
+      "Q": "Combination Sum – 1",
+      "link": "https://leetcode.com/problems/combination-sum/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "4",
+      "Q": "Combination Sum II – Find all unique combinations",
+      "link": "https://leetcode.com/problems/combination-sum-ii/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "5",
+      "Q": "Palindrome Partitioning",
+      "link": "https://leetcode.com/problems/palindrome-partitioning/",
+      "status": "Incomplete",
+      "done": "not"
+  },
+  {
+      "ID": "6",
+      "Q": "Find K-th Permutation Sequence",
+      "link": "https://leetcode.com/problems/permutation-sequence/",
+      "status": "Incomplete",
+      "done": "not"
+  }
+]
